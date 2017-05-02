@@ -1,0 +1,42 @@
+{
+  "name"        : "blueblazeassociates/post-types-order",
+  "description" : "Posts Order and Post Types Objects Order using a Drag and Drop Sortable javascript capability",
+  "type"        : "wordpress-plugin",
+  "homepage"    : "https://github.com/blueblazeassociates/post-types-order",
+  "license" : [
+    "GPL-2.0"
+  ],
+  "authors" : [{
+      "name"     : "Nsp Code",
+      "homepage" : "http://www.nsp-code.com",
+      "role"     : "Author/Creator"
+    }, {
+      "name"     : "Ed Gifford",
+      "homepage" : "http://www.blueblazeassociates.com",
+      "role"     : "Composer-fier and Developer",
+      "email"    : "egifford@blueblazeassociates.com"
+    }
+  ],
+  "keywords" : [
+    "post order",
+    "post sort",
+    "posts order",
+    "posts sort",
+    "sort"
+  ],
+  "replace" : {
+    "wpackagist-plugin/post-types-order" : "1.9.3"
+  },
+  "require" : {
+    "php" : ">=5.6.0"
+  },
+  "require-dev" : {
+    "roave/security-advisories"    : "dev-master",
+    "sllh/composer-versions-check" : "^2.0"
+  },
+  "suggest" : {
+  },
+  "config" : {
+    "php" : "5.6.0"
+  }
+}
