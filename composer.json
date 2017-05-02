@@ -19,10 +19,13 @@
   ],
   "keywords" : [
     "post order",
-    "post sort",
     "posts order",
+    "sort",
+    "post sort",
     "posts sort",
-    "sort"
+    "post type order",
+    "custom order",
+    "admin posts order"
   ],
   "replace" : {
     "wpackagist-plugin/post-types-order" : "1.9.3"
