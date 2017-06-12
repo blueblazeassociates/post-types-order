@@ -19,7 +19,7 @@
  * Plugin URI:          https://github.com/blueblazeassociates/post-types-order
  * Original Plugin URI: http://www.nsp-code.com
  * Description:         Posts Order and Post Types Objects Order using a Drag and Drop Sortable javascript capability
- * Version:             1.9.3.1
+ * Version:             1.9.3.1.1
  * Author:              Nsp Code
  * Author URI:          http://www.nsp-code.com
  * License:             GPL2
