@@ -8,6 +8,7 @@ Read the original README.txt for more information about it.
 
 Changes:
 
+* Changing default permission from 'install_plugins' to 'manage_options'. Flagged by egifford 2017_05_02.
 * Change capability for running the plugin to manage_options.
 
 Branches:
