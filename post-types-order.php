@@ -27,6 +27,8 @@
  * Domain Path:         /languages/
  * GitHub Plugin URI:   https://github.com/blueblazeassociates/post-types-order
  * GitHub Branch:       blueblaze
+ * Requires WP:         4.7
+ * Requires PHP:        5.6
  */
 
 define('CPTPATH',   plugin_dir_path(__FILE__));
